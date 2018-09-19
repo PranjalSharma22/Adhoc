@@ -3,9 +3,9 @@
 
 ### REQUIREMENTS
 
-> PANDAS
-To install pandas do the following:
+[PANDAS]
+>To install pandas do the following:
 
 ```sh
 $ sudo pip3 install pandas
-'''
+```
